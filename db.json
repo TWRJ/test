@@ -1,0 +1,17 @@
+{
+	"feesquery":[
+	  {
+		"car_tp": 99,
+		"caltkt": "123456789",
+		"calpay": 15,
+		"ovrflg": "1",
+		"pay_st": "",
+		"pay_dt": "",
+		"lim_dt": "20190920",
+		"parkdt": "20190910",
+		"plt_no": "112-TDG",
+		"tkt_no": "456871",
+		"paymay": 500
+	  }
+	]
+}
