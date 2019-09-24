@@ -1,17 +1,33 @@
 {
-	"feesquery":[
-	  {
-		"car_tp": 99,
-		"caltkt": "123456789",
-		"calpay": 15,
-		"ovrflg": "1",
-		"pay_st": "",
-		"pay_dt": "",
-		"lim_dt": "20190920",
-		"parkdt": "20190910",
-		"plt_no": "112-TDG",
-		"tkt_no": "456871",
-		"paymay": 500
-	  }
-	]
+  "trailer": [
+    {
+      "find": 300,
+      "Content1": "高雄發大財",
+      "storage": 150,
+      "VT_charge": 800,
+      "C_Cname": "機車",
+      "VT_TEL": "07-235-4699",
+      "VT_add": "800高雄市新興區八德一路27號",
+      "VT_Cname": "八德拖吊場",
+      "In_time": "1934",
+      "In_date": "20190924",
+      "Tcar_num": "112-TDG",
+      "Advice_num": "fsgfdsgfdsf"
+    }
+  ],
+  "feesquery": [
+    {
+      "car_tp": 99,
+      "caltkt": "123456789",
+      "calpay": 15,
+      "ovrflg": "1",
+      "pay_st": "",
+      "pay_dt": "",
+      "lim_dt": "20190920",
+      "parkdt": "20190910",
+      "plt_no": "112-TDG",
+      "tkt_no": "456871",
+      "paymay": 500
+    }
+  ]
 }
